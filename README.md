@@ -22,20 +22,27 @@ This project analyzes Reddit discussions about **five major films released in Su
 COMP_370_FINAL_PROJECT/
 │
 ├── data/
-│   ├── annotation_sample.csv      # 200-post sample for open coding
-│   ├── annotations.csv            # Manual annotations (174/618 complete)
-│   ├── codebook.json              # Finalized 6-code codebook
-│   └── reddit_movies_posts.csv    # Full dataset (618 posts)
+│   ├── annotated_teammate1.csv            # Teammate 1's annotations (for merging)
+│   ├── annotated_teammate2.csv            # Teammate 2's annotations (for merging)
+│   ├── annotation_sample.csv              # 200-post sample for open coding
+│   ├── annotations.csv                    # Master annotations file (174/618 complete)
+│   ├── codebook.json                      # Finalized 6-code codebook
+│   ├── reddit_movies_posts.csv            # Full dataset (618 posts)
+│   ├── remaining_posts_teammate1.csv      # 209 posts for Teammate 1 to annotate
+│   └── remaining_posts_teammate2.csv      # 209 posts for Teammate 2 to annotate
 │
 ├── scripts/
-│   ├── reddit_scraper.py          # Part 1: Data collection
-│   ├── create_annotation_sample.py # Helper: Creates 200-post sample
-│   └── update_annotations.py      # Helper: Updates annotation codes
+│   ├── create_annotation_sample.py        # Helper: Creates 200-post sample
+│   ├── merge_annotations.py               # Merges multi-annotator files
+│   ├── reddit_scraper.py                  # Part 1: Data collection
+│   ├── split_posts_for_team.py            # Splits remaining posts for teammates
+│   └── update_annotations.py              # Helper: Updates annotation codes
 │
-├── batch_annotate.py              # Main annotation tool
-├── analyze_data.ipynb             # TF-IDF analysis (Task 3)
-├── requirements.txt               # Python dependencies
-└── README.md                      # This file
+├── analyze_data.ipynb                     # TF-IDF analysis (Task 3)
+├── batch_annotate.py                      # Main annotation tool
+├── .gitignore                             # Git ignore file
+├── README.md                              # This file
+└── requirements.txt                       # Python dependencies
 ```
 
 ---
