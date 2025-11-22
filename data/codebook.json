@@ -1,0 +1,26 @@
+{
+  "anticipation": {
+    "name": "Pre-release Anticipation/Hype",
+    "definition": "Posts expressing excitement, speculation, or anticipation before the movie release"
+  },
+  "box_office": {
+    "name": "Box Office Performance",
+    "definition": "Discussion of ticket sales, financial performance, box office records"
+  },
+  "comparison": {
+    "name": "Movie Comparisons",
+    "definition": "Comparing the movie to other films, franchises, or discussing Barbenheimer phenomenon"
+  },
+  "reactions_and_reviews": {
+    "name": "Reactions and Reviews",  
+    "definition": "Posts discussing the film's quality, themes, plot, acting, direction, or other creative elements. Includes both brief reactions and in-depth critical analysis."
+  },
+  "cultural_impact": {
+    "name": "Cultural/Social Impact",
+    "definition": "Discussion of the movie's social, political, or cultural significance and impact"
+  },
+  "technical_aspects": {
+    "name": "Technical/Production Discussion",
+    "definition": "Discussion of special effects, soundtrack, cinematography, IMAX, technical achievements"
+  }
+}
