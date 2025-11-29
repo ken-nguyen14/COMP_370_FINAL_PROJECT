@@ -13,10 +13,10 @@ import os
 #SAMPLE_FILE = 'data/annotation_sample.csv'
 
 # For remaining articles (change name of sample file) i.e. remaining_posts_teammate1.csv
-SAMPLE_FILE = 'data/remaining_posts_teammate1.csv'
+SAMPLE_FILE = 'data/remaining_posts_teammate2.csv'
 CODEBOOK_FILE = 'data/codebook.json'
 # Change annotation file to your specific one i.e. annotated_teammate1.csv
-ANNOTATIONS_FILE = 'data/annotated_teammate1.csv'
+ANNOTATIONS_FILE = 'data/annotated_teammate2.csv'
 BATCH_SIZE = 5
 
 def load_or_create_codebook():
