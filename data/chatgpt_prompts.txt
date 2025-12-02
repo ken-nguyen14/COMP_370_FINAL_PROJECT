@@ -1,0 +1,246 @@
+================================================================================
+PROMPT FOR: anticipation
+================================================================================
+
+I am analyzing Reddit discussions about Summer 2023 movies (Barbie, Oppenheimer, Mission: Impossible, Spider-Man, Guardians of the Galaxy).
+
+I have categorized 28 posts as "Pre-release Anticipation/Hype" defined as:
+"Posts expressing excitement, speculation, or anticipation before the movie release"
+
+The top 10 distinctive words (by TF-IDF) for this category are:
+oppenheimer, nolan, film, spider, watch, movie, barbie, movies, moon, christopher
+
+Here are 10 representative post titles from this category:
+1. Official Poster for Christopher Nolan's 'Oppenheimer'
+
+2. Official Character Posters for 'Spider-Man: Across the Spider-Verse'
+
+3. Nolan says to Variety that Oppenheimer is "a $180m movie"
+
+4. Spider-Man: Across the Spider-Verse - Welcome 30"
+
+5. Matt Damon is honestly a on roll right now in terms of putting out one great film after another
+
+6. Oppenheimer: Where History Meets Filmography - 30 Spoiler Free Fascinating Facts Before the Premiere (Part 1)
+
+7. It was previously confirmed Oppenheimer pre-sale tickets would be available tomorrow, but Showcase Cinemas has announced only IMAX tickets will be on sale. Standard showing tickets are assumed to be available at a later date.
+
+8. What's your favorite film by your favorite film director?
+
+9. Oppenheimer: Where History Meets Filmography - 30 Spoiler Free Fascinating Facts Before the Premiere (Part 2)
+
+10. Presale tickets for standard, non-premium screenings of Oppenheimer begin on Thursday. Listen up, WB! Now’s your chance to line up the Barbie presales for the same day!
+
+
+Based on this information, please write a 2-3 sentence summary that characterizes what people are discussing in this category. Focus on:
+1. The main themes and topics
+2. The tone or sentiment (if applicable)
+3. What makes this category distinct from others
+
+Keep the summary concise and factual.
+
+================================================================================
+PROMPT FOR: box_office
+================================================================================
+
+I am analyzing Reddit discussions about Summer 2023 movies (Barbie, Oppenheimer, Mission: Impossible, Spider-Man, Guardians of the Galaxy).
+
+I have categorized 233 posts as "Box Office Performance" defined as:
+"Discussion of ticket sales, financial performance, box office records"
+
+The top 10 distinctive words (by TF-IDF) for this category are:
+box office, office, box, oppenheimer, million, nolan, weekend, barbenheimer, amp, barbie
+
+Here are 10 representative post titles from this category:
+1. What's Causing The Current "Flopbuster" Era?
+
+2. 'Barbie’ Tracking for $70M- $80M Opening, Christopher Nolan’s ‘Oppenheimer’ Targets $40M
+
+3. Nolan's R rated Oppenheimer just passed Interstellar in box office, looking to take down Inception next
+
+4. #Oppenheimer also blew up industry’s projections at US #BoxOffice after BOMBASTIC 80M on its 3-day opening weekend. Biggest for a original film in #ChristopherNolan’s career, beating #Inception’s 62.8M! BIGGEST for any R-rated film Post-Covid, beating #JohnWick4’s 73.8M.
+
+5. Is the top 5 of this summer locked at this point?
+
+6. Did Paramount and Tom Cruise underestimate Barbie and Oppenheimer while choosing the MI7 release date?
+
+7. Christopher Nolan’s ‘Oppenheimer’ Crosses $850 Million Globally, Becoming 3rd Highest Grossing Nolan Film Ever - At this rate, the $900 million mark is within reach and $1 billion is closer than box office watchers ever expected.
+
+8. Christopher Nolan embarks on a one-man campaign to push ‘Oppenheimer’ past a billion
+
+9. ‘Oppenheimer’ Soaring Past $700M Global Box Office Today, Will Overtake Christopher Nolan’s ‘Interstellar’ On Sunday
+
+10. #Barbenheimer is almost here! What are your predictions for each film (OW, Domestic and Worldwide totals)? How do you think the Barbie/Oppenheimer double feature memes will affect their box office performances?
+
+
+Based on this information, please write a 2-3 sentence summary that characterizes what people are discussing in this category. Focus on:
+1. The main themes and topics
+2. The tone or sentiment (if applicable)
+3. What makes this category distinct from others
+
+Keep the summary concise and factual.
+
+================================================================================
+PROMPT FOR: comparison
+================================================================================
+
+I am analyzing Reddit discussions about Summer 2023 movies (Barbie, Oppenheimer, Mission: Impossible, Spider-Man, Guardians of the Galaxy).
+
+I have categorized 56 posts as "Movie Comparisons" defined as:
+"Comparing the movie to other films, franchises, or discussing Barbenheimer phenomenon"
+
+The top 10 distinctive words (by TF-IDF) for this category are:
+movies, barbie, movie, think, double, barbenheimer, film, films, feature, like
+
+Here are 10 representative post titles from this category:
+1. ‘Barbenheimer’ Is a Huge Hollywood Moment and Maybe the Last for a While
+
+2. Films that were better than they had any right to be
+
+3. I keep seeing people asking if X/X is the next Barbenheimer
+
+4. The Creator is the standard for budgeting on a blockbuster.
+
+5. Extremely pink movies?
+
+6. Fun Fact: Barbenheimer almost didn’t happen.
+
+7. The GodFather I &amp; II
+
+8. Can MI7 ($551M) still beat The Little Mermaid ($568M) at the worldwide boxoffice?
+
+9. Christine Vachon On The Banned Barbie Film She Made With Todd Haynes — KVIFF
+
+10. Barbenheimer
+
+
+Based on this information, please write a 2-3 sentence summary that characterizes what people are discussing in this category. Focus on:
+1. The main themes and topics
+2. The tone or sentiment (if applicable)
+3. What makes this category distinct from others
+
+Keep the summary concise and factual.
+
+================================================================================
+PROMPT FOR: cultural_impact
+================================================================================
+
+I am analyzing Reddit discussions about Summer 2023 movies (Barbie, Oppenheimer, Mission: Impossible, Spider-Man, Guardians of the Galaxy).
+
+I have categorized 28 posts as "Cultural/Social Impact" defined as:
+"Discussion of the movie's social, political, or cultural significance and impact"
+
+The top 10 distinctive words (by TF-IDF) for this category are:
+barbie, film, barbenheimer, movies, films, mattel, warner, japan, movie, like
+
+Here are 10 representative post titles from this category:
+1. Kuwait bans 'Barbie' and 'Talk to Me' films to safeguard public ethics and traditions
+
+2. The Barbie movie to me seemed to be supportive for BOTH men and women. I do not understand the backlash.
+
+3. Why ‘Barbie’'s Magic Isn't Easy To Recapture For Rest Of The Mattel Cinematic Universe -While sequel to $1 billion hit is long way off (if even possible), Warner is keeping the Mattel movie boom momentum going by pushing forward 'Hot Wheels' &amp; Hollywood questions which toys can actually become hits.
+
+4. Barbenheimer is catching heat in Japan
+
+5. Broey Deschanel made the best piece I've seen about Barbie Discourse™
+
+6. Warner Bros. Film Group U.S. Responds To Barbenheimer Criticism Out Of Japan — Update: “Warner Brothers regrets its recent insensitive social media engagement. The studio offers a sincere apology.”
+
+7. Oppenheimer as an indictment on the professional managerial class
+
+8. Christoper Nolan's 'Oppenheimer' Japan Release Not Finalized - The situation in Japan is complicated given the film’s subject matter and the devastation the bombs wrought on the country
+
+9. What Barbie Taught Me About Mattel
+
+10. Oppenheimer had its red carpet premiere in China today on Qixi Festival (Valentines Day) with Nolan himself present and giving interviews. Pre-sales for it also went live alongside it ahead of its wide rollout on the 30th.
+
+
+Based on this information, please write a 2-3 sentence summary that characterizes what people are discussing in this category. Focus on:
+1. The main themes and topics
+2. The tone or sentiment (if applicable)
+3. What makes this category distinct from others
+
+Keep the summary concise and factual.
+
+================================================================================
+PROMPT FOR: reactions_and_reviews
+================================================================================
+
+I am analyzing Reddit discussions about Summer 2023 movies (Barbie, Oppenheimer, Mission: Impossible, Spider-Man, Guardians of the Galaxy).
+
+I have categorized 72 posts as "Reactions and Reviews" defined as:
+"Posts discussing the film's quality, themes, plot, acting, direction, or other creative elements. Includes both brief reactions and in-depth critical analysis."
+
+The top 10 distinctive words (by TF-IDF) for this category are:
+movie, barbie, oppenheimer, nolan, film, like, think, movies, ken, just
+
+Here are 10 representative post titles from this category:
+1. Official Discussion - Oppenheimer [SPOILERS]
+
+2. Christopher Nolan on Why ‘Oppenheimer’ Can Be Seen as a “Horror Movie”
+
+3. Christopher Nolan's 'Oppenheimer' - Review Thread
+
+4. In 'Oppenheimer,' Cillian Murphy leads a Nolan epic
+
+5. Official Discussion - Barbie [SPOILERS]
+
+6. Spider-Man Into The Spider Verse (2018) In one frame, spidermans face gets shaped into the popsicle at 2:04-2:05
+
+7. Is the message of Barbie (2023) going over everyone’s heads? Let’s discuss
+
+8. Greta Gerwig's 'Barbie' - Review Thread
+
+9. What performance by an actor/actress, that was short, left a strong impact/sold you?
+
+10. 'Oppenheimer' Review Thread
+
+
+Based on this information, please write a 2-3 sentence summary that characterizes what people are discussing in this category. Focus on:
+1. The main themes and topics
+2. The tone or sentiment (if applicable)
+3. What makes this category distinct from others
+
+Keep the summary concise and factual.
+
+================================================================================
+PROMPT FOR: technical_aspects
+================================================================================
+
+I am analyzing Reddit discussions about Summer 2023 movies (Barbie, Oppenheimer, Mission: Impossible, Spider-Man, Guardians of the Galaxy).
+
+I have categorized 35 posts as "Technical/Production Discussion" defined as:
+"Discussion of special effects, soundtrack, cinematography, IMAX, technical achievements"
+
+The top 10 distinctive words (by TF-IDF) for this category are:
+imax, christopher, nolan, oppenheimer, christopher nolan, 70mm, movie, film, like, movies
+
+Here are 10 representative post titles from this category:
+1. Christopher Nolan Confirms ‘Oppenheimer’ Is His Longest Movie and ‘Kissing Three Hours’: ‘Slightly Longer’ Than ‘Interstellar’
+
+2. The final runtime on Christopher Nolan’s 'Oppenheimer' is 180 minutes, or 3 hours, making it his longest film to date
+
+3. Christopher Nolan Cut 30 ‘Oppenheimer’ Filming Days In Order To Free Up Money To Save Budget For Sets, Production Designer Ruth De Jong Calls It ‘The Most Incredible Thing’
+
+4. In Spider-Man: Across The Spider-Verse (2023) there's a bus ticket in Miles's notebook. It's the same ticket they used in Spider-Man: Into the Spider-Verse (2018) for returning from Alchemax where Miles and Gwen have meet first time.
+
+5. Christopher Nolan breaks down the best ways to watch a movie, ahead of his ‘Oppenheimer’ release
+
+6. Inside the ‘Oppenheimer’ Imax 70mm Craze: Fans Crossing State Lines, the Search for New Projectors and More - With Christopher Nolan's atomic bomb drama, a “cinephile argument” has become mainstream, as 30 premium screens worldwide have raked in an astounding $17 million in just four weeks
+
+7. Mainstream Hollywood films seem to be trending towards more lengthy runtimes post pandemic.
+
+8. Oppenheimer - A Soundtrack In Analysis
+
+9. Seeking Insights: IMAX vs. Regular Theater Experience - The Oppenheimer Dilemma!
+
+10. #IMAX kicks off this THU #Oppenheimer Pre-sales for select 70mm screenings in several markets, the way #ChristopherNolan intended the film to be seen, ahead of its JUL 21 debut. ☢️Only In IMAX theatres featuring 15 perf / 70mm film, images will expand up to a 1.43:1 aspect ratio.
+
+
+Based on this information, please write a 2-3 sentence summary that characterizes what people are discussing in this category. Focus on:
+1. The main themes and topics
+2. The tone or sentiment (if applicable)
+3. What makes this category distinct from others
+
+Keep the summary concise and factual.
+

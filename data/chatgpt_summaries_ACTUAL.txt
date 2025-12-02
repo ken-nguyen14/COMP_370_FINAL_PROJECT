@@ -1,0 +1,94 @@
+# ChatGPT Topic Summaries
+# Based on ACTUAL TF-IDF Results
+
+================================================================================
+TOPIC: anticipation (28 posts, 6.2%)
+================================================================================
+
+Top 10 TF-IDF Words:
+oppenheimer, nolan, film, spider, watch, movie, barbie, movies, moon, christopher
+
+ChatGPT Summary:
+[Posts in this category center on excitement and speculation leading up to the release of major Summer 2023 films—especially Oppenheimer, Barbie, Spider-Man: Across the Spider-Verse, and Mission: Impossible. Discussions highlight new posters, trailers, director-related news, and presale ticket updates, reflecting a strongly anticipatory and enthusiastic tone. What makes this category distinct is its focus on pre-release buildup rather than reviews or reactions, with users sharing hype, expectations, and industry tidbits before the movies premiered.]
+
+
+================================================================================
+TOPIC: box_office (233 posts, 51.5%)
+================================================================================
+
+Top 10 TF-IDF Words:
+box office, office, box, oppenheimer, million, nolan, weekend, barbenheimer, amp, barbie
+
+ChatGPT Summary:
+[This category centers on analyzing the financial performance of major Summer 2023 releases, with heavy focus on opening-weekend projections, record-breaking milestones, and comparative earnings—especially for Oppenheimer and Barbie. The tone is analytical and numbers-driven, often mixing industry speculation with enthusiasm about unexpectedly strong results. It is distinct from other categories because it focuses specifically on box office data, trends, and financial implications rather than film content, production details, or viewer reactions.]
+
+
+================================================================================
+TOPIC: comparison (56 posts, 12.4%)
+================================================================================
+
+Top 10 TF-IDF Words:
+movies, barbie, movie, think, double, barbenheimer, film, films, feature, like
+
+ChatGPT Summary:
+[This category revolves around comparing Summer 2023 films to one another, to past franchises, or to broader industry trends, with the Barbenheimer phenomenon serving as a frequent reference point. The tone is reflective and conversational, often mixing lighthearted discussion with broader commentary on how these movies stack up in style, impact, or box office performance. It stands out from other categories by focusing on relational judgments between films rather than on any single movie’s marketing, financial results, or viewer reactions.]
+
+
+================================================================================
+TOPIC: cultural_impact (28 posts, 6.2%)
+================================================================================
+
+Top 10 TF-IDF Words:
+barbie, film, barbenheimer, movies, films, mattel, warner, japan, movie, like
+
+ChatGPT Summary:
+[This category focuses on the broader cultural, social, and political implications of Summer 2023 films, especially how Barbie and Oppenheimer intersect with global controversies, gender discourse, and international reception. The tone is more serious and reflective, often dealing with sensitive topics such as censorship, historical context, and public backlash. It stands out by examining the movies’ societal impact rather than their entertainment value, marketing, or financial performance.]
+
+
+================================================================================
+TOPIC: reactions_and_reviews (72 posts, 15.9%)
+================================================================================
+
+Top 10 TF-IDF Words:
+movie, barbie, oppenheimer, nolan, film, like, think, movies, ken, just
+
+ChatGPT Summary:
+[This category centers on viewers’ reactions to and evaluations of the films themselves, including discussions of plot, themes, performances, direction, and overall artistic quality. The tone ranges from enthusiastic to critical, with many posts offering detailed analyses or participating in official review and spoiler threads. It is distinct because it focuses on firsthand viewing experiences and creative interpretation rather than marketing, cultural debates, or financial performance.]
+
+
+================================================================================
+TOPIC: technical_aspects (35 posts, 7.7%)
+================================================================================
+
+Top 10 TF-IDF Words:
+imax, christopher, nolan, oppenheimer, christopher nolan, 70mm, movie, film, like, movies
+
+ChatGPT Summary:
+[This category focuses on the technical craftsmanship behind the films, including cinematography, special formats like IMAX 70mm, runtime decisions, soundtracks, and production choices. The tone is detail-oriented and often enthusiastically technical, with users discussing optimal viewing formats and behind-the-scenes achievements. It stands out by emphasizing filmmaking techniques and production logistics rather than narrative content, cultural impact, or box office results.]
+
+
+================================================================================
+COMPLETION CHECKLIST:
+================================================================================
+
+[ ] Got summary for: anticipation
+[ ] Got summary for: box_office
+[ ] Got summary for: comparison
+[ ] Got summary for: cultural_impact
+[ ] Got summary for: reactions_and_reviews
+[ ] Got summary for: technical_aspects
+[ ] All summaries are 2-3 sentences
+[ ] Ready to add to final report
+
+
+================================================================================
+OBSERVATIONS ABOUT TF-IDF RESULTS:
+================================================================================
+
+Key patterns noticed:
+- box_office shows "box office", "million", "weekend" - clear financial focus
+- technical_aspects shows "imax", "70mm", "christopher nolan" - production focus
+- comparison shows "double", "barbenheimer", "feature" - comparing movies
+- cultural_impact shows "mattel", "warner", "japan" - business/cultural aspects
+- reactions_and_reviews shows "like", "think", "just" - opinion language
+- anticipation shows "watch", "spider", "moon" - pre-release excitement

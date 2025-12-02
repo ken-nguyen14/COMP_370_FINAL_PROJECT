@@ -1,0 +1,176 @@
+{
+  "anticipation": {
+    "code_name": "Pre-release Anticipation/Hype",
+    "definition": "Posts expressing excitement, speculation, or anticipation before the movie release",
+    "num_posts": 28,
+    "top_words": [
+      "oppenheimer",
+      "nolan",
+      "film",
+      "spider",
+      "watch",
+      "movie",
+      "barbie",
+      "movies",
+      "moon",
+      "christopher"
+    ],
+    "sample_posts": [
+      "Title: Official Poster for Christopher Nolan's 'Oppenheimer'\nContent: (no text)...",
+      "Title: Official Character Posters for 'Spider-Man: Across the Spider-Verse'\nContent: (no text)...",
+      "Title: Nolan says to Variety that Oppenheimer is \"a $180m movie\"\nContent: (no text)...",
+      "Title: Spider-Man: Across the Spider-Verse - Welcome 30\"\nContent: (no text)...",
+      "Title: Matt Damon is honestly a on roll right now in terms of putting out one great film after another\nContent: I feel like not enough people talk about this, but I feel like Matt Damon has been putting out one great film after another and not enough people talk about it. Here are some of the films he's been in...",
+      "Title: Oppenheimer: Where History Meets Filmography - 30 Spoiler Free Fascinating Facts Before the Premiere (Part 1)\nContent: I'm thrilled about \"Oppenheimer\" as it combines two subjects I'm passionate about: the history of the Manhattan Project and Christopher Nolan's filmography. To build anticipation for the premiere, I'v...",
+      "Title: It was previously confirmed Oppenheimer pre-sale tickets would be available tomorrow, but Showcase Cinemas has announced only IMAX tickets will be on sale. Standard showing tickets are assumed to be available at a later date.\nContent: (no text)...",
+      "Title: What's your favorite film by your favorite film director?\nContent: Dunkirk is such a masterpiece of a movie from start to finish. Historically accurate, intense, riveting, and powerful all at the same time. The fact that Dunkirk was such a masterpiece makes me even m...",
+      "Title: Oppenheimer: Where History Meets Filmography - 30 Spoiler Free Fascinating Facts Before the Premiere (Part 2)\nContent: Here is part 2 (# 11-20) of the Oppenheimer facts in anticipation for the \"Oppenheimer\" movie premiere. Part one was posted [here](https://www.reddit.com/r/OppenheimerMovie/comments/14pyu0i/oppenheime...",
+      "Title: Presale tickets for standard, non-premium screenings of Oppenheimer begin on Thursday. Listen up, WB! Now\u2019s your chance to line up the Barbie presales for the same day!\nContent: (no text)..."
+    ]
+  },
+  "box_office": {
+    "code_name": "Box Office Performance",
+    "definition": "Discussion of ticket sales, financial performance, box office records",
+    "num_posts": 233,
+    "top_words": [
+      "box office",
+      "office",
+      "box",
+      "oppenheimer",
+      "million",
+      "nolan",
+      "weekend",
+      "barbenheimer",
+      "amp",
+      "barbie"
+    ],
+    "sample_posts": [
+      "Title: What's Causing The Current \"Flopbuster\" Era?\nContent: This is probably something you guys have heard about a lot lately, but it's kinda hard to ignore. Between D&amp;D, Shazam 2, Ant-Man 3, Fast X, The Little Mermaid, Transformers, Elemental, The Flash, ...",
+      "Title: 'Barbie\u2019 Tracking for $70M- $80M Opening, Christopher Nolan\u2019s \u2018Oppenheimer\u2019 Targets $40M\nContent: (no text)...",
+      "Title: Nolan's R rated Oppenheimer just passed Interstellar in box office, looking to take down Inception next\nContent: (no text)...",
+      "Title: #Oppenheimer also blew up industry\u2019s projections at US #BoxOffice after BOMBASTIC 80M on its 3-day opening weekend. Biggest for a original film in #ChristopherNolan\u2019s career, beating #Inception\u2019s 62.8M! BIGGEST for any R-rated film Post-Covid, beating #JohnWick4\u2019s 73.8M.\nContent: (no text)...",
+      "Title: Is the top 5 of this summer locked at this point?\nContent: (no text)...",
+      "Title: Did Paramount and Tom Cruise underestimate Barbie and Oppenheimer while choosing the MI7 release date?\nContent: So, MI7 is taking a beating right now from all 3 ends, whether Barbie, Oppenheimer, SoF.  \n\n\nI understand Sound of Freedom has truly been a wildcard no one expected, but is it safe to say Barbie and O...",
+      "Title: Christopher Nolan\u2019s \u2018Oppenheimer\u2019 Crosses $850 Million Globally, Becoming 3rd Highest Grossing Nolan Film Ever - At this rate, the $900 million mark is within reach and $1 billion is closer than box office watchers ever expected.\nContent: (no text)...",
+      "Title: Christopher Nolan embarks on a one-man campaign to push \u2018Oppenheimer\u2019 past a billion\nContent: (no text)...",
+      "Title: \u2018Oppenheimer\u2019 Soaring Past $700M Global Box Office Today, Will Overtake Christopher Nolan\u2019s \u2018Interstellar\u2019 On Sunday\nContent: (no text)...",
+      "Title: #Barbenheimer is almost here! What are your predictions for each film (OW, Domestic and Worldwide totals)? How do you think the Barbie/Oppenheimer double feature memes will affect their box office performances?\nContent: (no text)..."
+    ]
+  },
+  "comparison": {
+    "code_name": "Movie Comparisons",
+    "definition": "Comparing the movie to other films, franchises, or discussing Barbenheimer phenomenon",
+    "num_posts": 56,
+    "top_words": [
+      "movies",
+      "barbie",
+      "movie",
+      "think",
+      "double",
+      "barbenheimer",
+      "film",
+      "films",
+      "feature",
+      "like"
+    ],
+    "sample_posts": [
+      "Title: \u2018Barbenheimer\u2019 Is a Huge Hollywood Moment and Maybe the Last for a While\nContent: (no text)...",
+      "Title: Films that were better than they had any right to be\nContent: It\u2019s always nice to have this experience. You saw the trailers, heard about the concept, or got a few stories from the production, and your hopes aren\u2019t very high. You\u2019re expecting something bad or, a...",
+      "Title: I keep seeing people asking if X/X is the next Barbenheimer\nContent: No. The reason Barbenheimer resonated so well is because it was an organic movement and both films turned out to be genuinely great. Any future \u201cBarbenheimer-esque\u201d double features will likely be sad ...",
+      "Title: The Creator is the standard for budgeting on a blockbuster.\nContent: This year has seen many bombs so far (Flash, Transformers, Shazam 2, Quantumania, Fast X, Indy 5, MI7, etc). The pure dollar amount wasn\u2019t great anyway but the problem got worse thanks to the ridiculo...",
+      "Title: Extremely pink movies?\nContent: The most obvious answer is Barbie, but I was also thinking \u201cWhat a Way to Go\u201d. With the amount of pinkish-orange, I would also count \u201cThe Thing\u201d and maybe Suspiria. Marie Antoinette is also very pink,...",
+      "Title: Fun Fact: Barbenheimer almost didn\u2019t happen.\nContent: Barbie originally wasn\u2019t going to have it\u2019s July 21st, 2023 date. Instead, Coyote Vs ACME was originally going to. Coyote Vs ACME is a Live-Action/Animated hybrid Loony Tunes movie based on a [New Yor...",
+      "Title: The GodFather I &amp; II\nContent: Has to be up high on my list of favorite movies. I don\u2019t know how many times I\u2019ve seen it altogether.\n\nWhen I got home earlier watching Barbie in theaters, I sunk into my usual and unpredictable depre...",
+      "Title: Can MI7 ($551M) still beat The Little Mermaid ($568M) at the worldwide boxoffice?\nContent: \n\n[View Poll](https://www.reddit.com/poll/163kpt5)...",
+      "Title: Christine Vachon On The Banned Barbie Film She Made With Todd Haynes \u2014 KVIFF\nContent: (no text)...",
+      "Title: Barbenheimer\nContent: Since I've heard so much talk about Barbenheimer (an Oppenheimer/Barbie double feature) I'm wondering if there has ever been an earlier instance in where two films released around the same time were v..."
+    ]
+  },
+  "cultural_impact": {
+    "code_name": "Cultural/Social Impact",
+    "definition": "Discussion of the movie's social, political, or cultural significance and impact",
+    "num_posts": 28,
+    "top_words": [
+      "barbie",
+      "film",
+      "barbenheimer",
+      "movies",
+      "films",
+      "mattel",
+      "warner",
+      "japan",
+      "movie",
+      "like"
+    ],
+    "sample_posts": [
+      "Title: Kuwait bans 'Barbie' and 'Talk to Me' films to safeguard public ethics and traditions\nContent: (no text)...",
+      "Title: The Barbie movie to me seemed to be supportive for BOTH men and women. I do not understand the backlash.\nContent:  \n\nLet me know if I am overthinking. A lot of people are calling the movie as man hating, but I came out thinking it had a really good message. The Kens were all competing against each other, in this ...",
+      "Title: Why \u2018Barbie\u2019's Magic Isn't Easy To Recapture For Rest Of The Mattel Cinematic Universe -While sequel to $1 billion hit is long way off (if even possible), Warner is keeping the Mattel movie boom momentum going by pushing forward 'Hot Wheels' &amp; Hollywood questions which toys can actually become hits.\nContent: (no text)...",
+      "Title: Barbenheimer is catching heat in Japan\nContent: The last few days there has been a rise in complaints against Barbenheimer in Japan. The lighthearted campaign between the two movies has offensed many, who argue that the jokes and memes are disrespe...",
+      "Title: Broey Deschanel made the best piece I've seen about Barbie Discourse\u2122\nContent: The main point is that it\u2019s fair to critique consumerism, commercialism and capitalism, even though it\u2019s a clich\u00e9 of sorts. From Gerwig\u2019s decision to work with Mattel, the unabashed mass instrumentali...",
+      "Title: Warner Bros. Film Group U.S. Responds To Barbenheimer Criticism Out Of Japan \u2014 Update: \u201cWarner Brothers regrets its recent insensitive social media engagement. The studio offers a sincere apology.\u201d\nContent: (no text)...",
+      "Title: Oppenheimer as an indictment on the professional managerial class\nContent: Was listening to the New York Times\u2019 podcast Matter of Opinion and they made a very interesting point about Oppenheimer - that it is basically an indictment on the professional managerial class and th...",
+      "Title: Christoper Nolan's 'Oppenheimer' Japan Release Not Finalized - The situation in Japan is complicated given the film\u2019s subject matter and the devastation the bombs wrought on the country\nContent: (no text)...",
+      "Title: What Barbie Taught Me About Mattel\nContent: What I learned about Mattel from the Barbie movie is that they are very good at capitalism. The best capitalists are willing to exploit any and every resource they can get their hands on, and that inc...",
+      "Title: Oppenheimer had its red carpet premiere in China today on Qixi Festival (Valentines Day) with Nolan himself present and giving interviews. Pre-sales for it also went live alongside it ahead of its wide rollout on the 30th.\nContent: (no text)..."
+    ]
+  },
+  "reactions_and_reviews": {
+    "code_name": "Reactions and Reviews",
+    "definition": "Posts discussing the film's quality, themes, plot, acting, direction, or other creative elements. Includes both brief reactions and in-depth critical analysis.",
+    "num_posts": 72,
+    "top_words": [
+      "movie",
+      "barbie",
+      "oppenheimer",
+      "nolan",
+      "film",
+      "like",
+      "think",
+      "movies",
+      "ken",
+      "just"
+    ],
+    "sample_posts": [
+      "Title: Official Discussion - Oppenheimer [SPOILERS]\nContent: #Poll\n\n**If you've seen the film, please rate it [at this poll](https://youpoll.me/105011/)**\n\n**If you haven't seen the film but would like to see the result of the poll [click here](https://youpoll....",
+      "Title: Christopher Nolan on Why \u2018Oppenheimer\u2019 Can Be Seen as a \u201cHorror Movie\u201d\nContent: (no text)...",
+      "Title: Christopher Nolan's 'Oppenheimer' - Review Thread\nContent: **Oppenheimer - Review Thread**\n\n* [Rotten Tomatoes](https://www.rottentomatoes.com/m/oppenheimer_2023): 93% (137 Reviews)\n&gt;**Critics Consensus**: Oppenheimer marks another engrossing achievement f...",
+      "Title: In 'Oppenheimer,' Cillian Murphy leads a Nolan epic\nContent: (no text)...",
+      "Title: Official Discussion - Barbie [SPOILERS]\nContent: #Poll\n\n**If you've seen the film, please rate it [at this poll](https://youpoll.me/105010/)**\n\n**If you haven't seen the film but would like to see the result of the poll [click here](https://youpoll....",
+      "Title: Spider-Man Into The Spider Verse (2018) In one frame, spidermans face gets shaped into the popsicle at 2:04-2:05\nContent: (no text)...",
+      "Title: Is the message of Barbie (2023) going over everyone\u2019s heads? Let\u2019s discuss\nContent: Of course I\u2019ve seen the discourse that film isn\u2019t fair to the Kens, Kens are portrayed as victims but still viewed as idiots at the end, its \u2018man-hating\u2019, etc. However, I\u2019d even say the movie is not q...",
+      "Title: Greta Gerwig's 'Barbie' - Review Thread\nContent: **Barbie - Review Thread**\n\n* [Rotten Tomatoes](https://www.rottentomatoes.com/m/barbie): 89% (110 Reviews)\n* [Metacritic](https://www.metacritic.com/movie/barbie): 81 (47 Reviews)\n\nReviews:\n\nDeadline...",
+      "Title: What performance by an actor/actress, that was short, left a strong impact/sold you?\nContent: I just watched Asteroid City last night, and it was amazing how even if Margot Robbie was on-screen for less than 5 minutes, she made a lasting impression on me. That brief performance sold me more on...",
+      "Title: 'Oppenheimer' Review Thread\nContent: I will continue to update this post as reviews come in.\n\n[**Rotten Tomatoes:**](https://www.rottentomatoes.com/m/oppenheimer_2023) Certified Fresh\n\n**Critics Consensus:** *Oppenheimer* marks another e..."
+    ]
+  },
+  "technical_aspects": {
+    "code_name": "Technical/Production Discussion",
+    "definition": "Discussion of special effects, soundtrack, cinematography, IMAX, technical achievements",
+    "num_posts": 35,
+    "top_words": [
+      "imax",
+      "christopher",
+      "nolan",
+      "oppenheimer",
+      "christopher nolan",
+      "70mm",
+      "movie",
+      "film",
+      "like",
+      "movies"
+    ],
+    "sample_posts": [
+      "Title: Christopher Nolan Confirms \u2018Oppenheimer\u2019 Is His Longest Movie and \u2018Kissing Three Hours\u2019: \u2018Slightly Longer\u2019 Than \u2018Interstellar\u2019\nContent: (no text)...",
+      "Title: The final runtime on Christopher Nolan\u2019s 'Oppenheimer' is 180 minutes, or 3 hours, making it his longest film to date\nContent: (no text)...",
+      "Title: Christopher Nolan Cut 30 \u2018Oppenheimer\u2019 Filming Days In Order To Free Up Money To Save Budget For Sets, Production Designer Ruth De Jong Calls It \u2018The Most Incredible Thing\u2019\nContent: (no text)...",
+      "Title: In Spider-Man: Across The Spider-Verse (2023) there's a bus ticket in Miles's notebook. It's the same ticket they used in Spider-Man: Into the Spider-Verse (2018) for returning from Alchemax where Miles and Gwen have meet first time.\nContent: (no text)...",
+      "Title: Christopher Nolan breaks down the best ways to watch a movie, ahead of his \u2018Oppenheimer\u2019 release\nContent: (no text)...",
+      "Title: Inside the \u2018Oppenheimer\u2019 Imax 70mm Craze: Fans Crossing State Lines, the Search for New Projectors and More - With Christopher Nolan's atomic bomb drama, a \u201ccinephile argument\u201d has become mainstream, as 30 premium screens worldwide have raked in an astounding $17 million in just four weeks\nContent: (no text)...",
+      "Title: Mainstream Hollywood films seem to be trending towards more lengthy runtimes post pandemic.\nContent: In the 2010s there were only 3 Hollywood films that had a 3 hours or more runtime. These were Avengers Endgame ( the semi-culmination of the most profitable movie franchise of that decade), Wolf of Wa...",
+      "Title: Oppenheimer - A Soundtrack In Analysis\nContent:  Composed of 24 tracks, Ludwig G\u00f6ransson\u2019s Oppenheimer soundtrack is a quite fascinating and amazingly made work of art. Apart from its incredible technical execution, it offers a wide range of themes...",
+      "Title: Seeking Insights: IMAX vs. Regular Theater Experience - The Oppenheimer Dilemma!\nContent: **What's up Everyone at r/Movies I hope you guys are having a fantastic day**\n\n\nAs the release of **Oppenheimer** draws near, I find myself caught in a dilemma, and I need your valuable insights. You ...",
+      "Title: #IMAX kicks off this THU #Oppenheimer Pre-sales for select 70mm screenings in several markets, the way #ChristopherNolan intended the film to be seen, ahead of its JUL 21 debut. \u2622\ufe0fOnly In IMAX theatres featuring 15 perf / 70mm film, images will expand up to a 1.43:1 aspect ratio.\nContent: Source:\nhttps://twitter.com/Luiz_Fernando_J/status/1664172845918822400?t=9c_BaGJ9yl38dCNObnmSgQ&amp;s=19..."
+    ]
+  }
+}
