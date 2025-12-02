@@ -9,8 +9,8 @@ def main():
     # Files to merge
     files_to_merge = [
         ('data/annotations.csv', 'Original annotations (174 posts)'),
-        ('annotated_teammate1.csv', 'Teammate 1 annotations'),
-        ('annotated_teammate2.csv', 'Teammate 2 annotations')
+        ('data/annotated_teammate1.csv', 'Teammate 1 annotations'),
+        ('data/annotated_teammate2.csv', 'Teammate 2 annotations')
     ]
     
     dfs = []
